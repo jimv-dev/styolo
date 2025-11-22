@@ -264,7 +264,7 @@ def detect_objects(image, net, confidence_threshold=0.5):
 
 def main():
     # Titulo do app
-    st.markdown('<p class="app-title">Styolo</p>', unsafe_allow_html=True)
+    st.markdown('<p class="app-title">Styolo Jardel</p>', unsafe_allow_html=True)
     st.markdown('<p class="app-subtitle">Deteccao de objetos com inteligencia artificial</p>', unsafe_allow_html=True)
 
     # Carregar modelo
